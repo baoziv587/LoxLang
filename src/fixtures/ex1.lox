@@ -1,0 +1,17 @@
+class Breakfast {
+  cook() {
+    print "Eggs a-fryin'!";
+  }
+
+  serve(who) {
+    print "Enjoy your breakfast, " + who + ".";
+  }
+}
+var a=2;
+
+2>=2;
+!=;
+3!=11113;
+*23==5;
+2.333333333==5666;
+ASDASD_asdasd11;
